@@ -19,8 +19,8 @@ This repository contains a setup script to configure your development environmen
 Clone this repository to your local machine:
 
 ```bash
-git clone git@github.com:firmanserdana/intracortical-decoding.git
-cd intracortical-decoding
+git clone git@github.com:firmanserdana/server_remote_setup.git
+cd server_remote_setup
 ```
 
 ### 2. Make the Script Executable
