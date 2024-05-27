@@ -67,7 +67,7 @@ The script installs `pyenv` and the latest Python version (3.10.14) to ensure yo
 
 ### Repository Cloning
 
-The script clones the `intracortical-decoding` repository and sets up a Python virtual environment within the cloned repository.
+The script clones the `server_remote_setup` repository and sets up a Python virtual environment within the cloned repository.
 
 ## License
 
